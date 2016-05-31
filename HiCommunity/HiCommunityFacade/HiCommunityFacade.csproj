@@ -40,7 +40,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="InitReferenceEnv.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HiCommunityCacheAccessor\HiCommunityCacheAccessor.csproj">
+      <Project>{5c712a52-fe6a-42bd-8bf2-3a5b74c5f8bd}</Project>
+      <Name>HiCommunityCacheAccessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HiCommunityDataDefine\HiCommunityDataDefine.csproj">
+      <Project>{6d528d1c-29c3-43cf-b2d2-d6a808efc075}</Project>
+      <Name>HiCommunityDataDefine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HiCommunityDBAccessor\HiCommunityDBAccessor.csproj">
+      <Project>{ca6a62ad-2f8f-4386-a67b-7b4bfe8bc0d5}</Project>
+      <Name>HiCommunityDBAccessor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

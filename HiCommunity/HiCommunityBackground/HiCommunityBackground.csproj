@@ -225,6 +225,16 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HiCommunityDBAccessor\HiCommunityDBAccessor.csproj">
+      <Project>{ca6a62ad-2f8f-4386-a67b-7b4bfe8bc0d5}</Project>
+      <Name>HiCommunityDBAccessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HiCommunityFacade\HiCommunityFacade.csproj">
+      <Project>{88948a98-9afc-4571-a45b-f32b3cbae8c6}</Project>
+      <Name>HiCommunityFacade</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

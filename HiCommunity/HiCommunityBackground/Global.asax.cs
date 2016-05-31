@@ -12,6 +12,8 @@ namespace HiCommunityBackground
     {
         protected void Application_Start()
         {
+            HiCommunityFacade.InitReferenceEnv.InitSubAssembliesEnv(System.Web.Configuration.WebConfigurationManager.AppSettings["HiCommunityDbConn"]);
+
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

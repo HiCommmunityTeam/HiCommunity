@@ -1,0 +1,10 @@
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\HiCommunityDBAccessor.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\HiCommunityDBAccessor.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\Dapper.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\HiCommunityDataDefine.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\HiCommunityDataDefine.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\Dapper.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\bin\Debug\Dapper.xml
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\obj\Debug\HiCommunityDBAccessor.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\obj\Debug\HiCommunityDBAccessor.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDBAccessor\obj\Debug\HiCommunityDBAccessor.pdb

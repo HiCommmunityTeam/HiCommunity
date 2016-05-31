@@ -1,0 +1,11 @@
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityFacade.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityFacade.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityCacheAccessor.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityDataDefine.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityDBAccessor.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityCacheAccessor.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityDataDefine.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityDBAccessor.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\obj\Debug\HiCommunityFacade.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\obj\Debug\HiCommunityFacade.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\obj\Debug\HiCommunityFacade.pdb
