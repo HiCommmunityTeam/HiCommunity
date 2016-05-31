@@ -1,0 +1,3 @@
+需要安装msysGit，才能使用TortoiseGit。
+
+使用说明：http://www.cnblogs.com/zhaopei/tag/git/
