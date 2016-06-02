@@ -9,3 +9,5 @@ C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\Hi
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\obj\Debug\HiCommunityFacade.csprojResolveAssemblyReference.cache
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\obj\Debug\HiCommunityFacade.dll
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\obj\Debug\HiCommunityFacade.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityQiNiu.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacade\bin\Debug\HiCommunityQiNiu.pdb

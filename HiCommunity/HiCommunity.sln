@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunity", "HiCommunity\HiCommunity.csproj", "{6FDBFAC0-1DEB-406D-883C-AC491B3B4580}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunityCacheAccessor", "HiCommunityCacheAccessor\HiCommunityCacheAccessor.csproj", "{5C712A52-FE6A-42BD-8BF2-3A5B74C5F8BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunityDataDefine", "HiCommunityDataDefine\HiCommunityDataDefine.csproj", "{6D528D1C-29C3-43CF-B2D2-D6A808EFC075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunityQiNiu", "HiCommunityQiNiu\HiCommunityQiNiu.csproj", "{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{6D528D1C-29C3-43CF-B2D2-D6A808EFC075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D528D1C-29C3-43CF-B2D2-D6A808EFC075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D528D1C-29C3-43CF-B2D2-D6A808EFC075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

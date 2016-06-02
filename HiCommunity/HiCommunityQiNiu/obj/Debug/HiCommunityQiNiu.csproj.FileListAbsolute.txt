@@ -1,0 +1,5 @@
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityQiNiu\bin\Debug\HiCommunityQiNiu.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityQiNiu\bin\Debug\HiCommunityQiNiu.pdb
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityQiNiu\obj\Debug\HiCommunityQiNiu.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityQiNiu\obj\Debug\HiCommunityQiNiu.dll
+C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityQiNiu\obj\Debug\HiCommunityQiNiu.pdb
