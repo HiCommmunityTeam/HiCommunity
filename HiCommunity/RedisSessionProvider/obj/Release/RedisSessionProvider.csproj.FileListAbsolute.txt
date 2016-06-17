@@ -1,0 +1,11 @@
+E:\LangBo201504\RedisSessionProvider\bin\Release\RedisSessionProvider.dll.config
+E:\LangBo201504\RedisSessionProvider\bin\Release\RedisSessionProvider.dll
+E:\LangBo201504\RedisSessionProvider\bin\Release\RedisSessionProvider.pdb
+E:\LangBo201504\RedisSessionProvider\bin\Release\Jil.dll
+E:\LangBo201504\RedisSessionProvider\bin\Release\Sigil.dll
+E:\LangBo201504\RedisSessionProvider\bin\Release\StackExchange.Redis.dll
+E:\LangBo201504\RedisSessionProvider\bin\Release\StackExchange.Redis.pdb
+E:\LangBo201504\RedisSessionProvider\bin\Release\StackExchange.Redis.xml
+E:\LangBo201504\RedisSessionProvider\obj\Release\RedisSessionProvider.csprojResolveAssemblyReference.cache
+E:\LangBo201504\RedisSessionProvider\obj\Release\RedisSessionProvider.dll
+E:\LangBo201504\RedisSessionProvider\obj\Release\RedisSessionProvider.pdb
