@@ -39,8 +39,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="HC_BackgroundUserBaseInfo.cs" />
+    <Compile Include="HC_CategoryBaseInfo.cs" />
+    <Compile Include="HC_NotifyMsgBaseInfo.cs" />
+    <Compile Include="HC_ThreadBaseInfo.cs" />
+    <Compile Include="HC_ThreadReplyBaseInfo.cs" />
+    <Compile Include="HC_ThreadTagBaseInfo.cs" />
+    <Compile Include="HC_UserBaseInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="~ExtendedClass\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

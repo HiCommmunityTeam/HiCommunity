@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HiCommunityDBAccessor
 {
-    public class Class1
+    class HC_CategoryBaseDbSvc
     {
     }
 }

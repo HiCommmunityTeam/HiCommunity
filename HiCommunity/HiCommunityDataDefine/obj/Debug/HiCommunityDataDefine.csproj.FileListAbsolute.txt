@@ -3,3 +3,8 @@ C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\bin\Debu
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\obj\Debug\HiCommunityDataDefine.csprojResolveAssemblyReference.cache
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\obj\Debug\HiCommunityDataDefine.dll
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\obj\Debug\HiCommunityDataDefine.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\bin\Debug\HiCommunityDataDefine.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\bin\Debug\HiCommunityDataDefine.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\obj\Debug\HiCommunityDataDefine.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\obj\Debug\HiCommunityDataDefine.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityDataDefine\obj\Debug\HiCommunityDataDefine.pdb
