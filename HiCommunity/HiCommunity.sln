@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunityDataDefine", "Hi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunityQiNiu", "HiCommunityQiNiu\HiCommunityQiNiu.csproj", "{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiCommunityRedisSessionProvider", "RedisSessionProvider\HiCommunityRedisSessionProvider.csproj", "{618F58F3-4FAE-4B73-A7A9-1DAE471C9F71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D5B5EA0-1EA4-489A-91F9-B9B63776A32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618F58F3-4FAE-4B73-A7A9-1DAE471C9F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618F58F3-4FAE-4B73-A7A9-1DAE471C9F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618F58F3-4FAE-4B73-A7A9-1DAE471C9F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618F58F3-4FAE-4B73-A7A9-1DAE471C9F71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
