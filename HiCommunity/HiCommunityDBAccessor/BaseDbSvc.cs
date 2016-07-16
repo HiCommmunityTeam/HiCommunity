@@ -22,8 +22,9 @@ namespace HiCommunityDBAccessor
         }
 
         protected MySqlConnection DbConnection = null;
+        protected const string GeneralTableIdField = "Id";
 
-        internal MySqlConnection EnsureMyBlogConnection()
+        internal MySqlConnection EnsureHiCommunityConnection()
         {
             if (DbConnection == null)
             {
@@ -32,7 +33,5 @@ namespace HiCommunityDBAccessor
             }
             else return null;
         }
-
-
     }
 }

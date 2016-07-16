@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HiCommunityDBAccessor
 {
-    class HC_NotifyMsgBaseDbSvc
+    class HC_UserDbSvc
     {
     }
 }

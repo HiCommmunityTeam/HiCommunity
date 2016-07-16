@@ -44,8 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseDbSvc.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="HC_BackgroundUserDbSvc.cs" />
+    <Compile Include="HC_CategoryDbSvc.cs" />
+    <Compile Include="HC_NotifyMsgDbSvc.cs" />
+    <Compile Include="HC_ThreadBaseDbSvc.cs" />
     <Compile Include="DBConnectionMgr.cs" />
+    <Compile Include="HC_ThreadReplyDbSvc.cs" />
+    <Compile Include="HC_ThreadTagDbSvc.cs" />
+    <Compile Include="HC_UserDbSvc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
