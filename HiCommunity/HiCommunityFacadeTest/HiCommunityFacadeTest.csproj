@@ -50,6 +50,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="HC_BackgroundUserFacadeTest.cs" />
+    <Compile Include="HC_CategoryFacadeTest.cs" />
+    <Compile Include="HC_NotifyMsgFacadeTest.cs" />
+    <Compile Include="HC_ThreadFacadeTest.cs" />
+    <Compile Include="HC_ThreadTagFacadeTest.cs" />
+    <Compile Include="HC_UserFacadeTest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

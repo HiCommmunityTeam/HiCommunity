@@ -12,11 +12,11 @@ namespace HiCommunityFacade
     {
         private static bool EnvInitialized = false;
 
-        public static void InitSubAssembliesEnv(string staticConn)
+        public static void InitSubAssembliesEnv(string hiCommunityConn)
         {
             if (!EnvInitialized)
             {
-                DBConnectionMgr.HiCommunityConnectionString = staticConn;
+                DBConnectionMgr.HiCommunityConnectionString = hiCommunityConn;
                 EnvInitialized = true;
             }
         }

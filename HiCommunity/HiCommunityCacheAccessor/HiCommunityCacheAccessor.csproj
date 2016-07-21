@@ -30,6 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Jil">
+      <HintPath>E:\项目\LangBo\CacheAccessor\bin\Debug\Jil.dll</HintPath>
+    </Reference>
+    <Reference Include="StackExchange.Redis">
+      <HintPath>E:\项目\LangBo\CacheAccessor\bin\Debug\StackExchange.Redis.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -39,8 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="CacheConstDefine.cs" />
+    <Compile Include="HC_BackgroundUserCacheSvc.cs" />
+    <Compile Include="HC_CategoryCacheSvc.cs" />
+    <Compile Include="HC_NotifyMsgCacheSvc.cs" />
+    <Compile Include="HC_ThreadCacheSvc.cs" />
+    <Compile Include="HC_ThreadTagCacheSvc.cs" />
+    <Compile Include="HC_UserCacheSvc.cs" />
+    <Compile Include="JilSerializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RedisClientMgr.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HiCommunityDataDefine\HiCommunityDataDefine.csproj">
@@ -51,6 +65,9 @@
       <Project>{ca6a62ad-2f8f-4386-a67b-7b4bfe8bc0d5}</Project>
       <Name>HiCommunityDBAccessor</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="package.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

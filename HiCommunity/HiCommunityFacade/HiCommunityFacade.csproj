@@ -40,6 +40,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="HC_BackgroundUserFacade.cs" />
+    <Compile Include="HC_CategoryFacade.cs" />
+    <Compile Include="HC_NotifyMsgFacade.cs" />
+    <Compile Include="HC_ThreadFacade.cs" />
+    <Compile Include="HC_ThreadTagFacade.cs" />
+    <Compile Include="HC_UserFacade.cs" />
     <Compile Include="InitReferenceEnv.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

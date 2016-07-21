@@ -7,3 +7,17 @@ C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debu
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\obj\Debug\HiCommunityFacadeTest.csprojResolveAssemblyReference.cache
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\obj\Debug\HiCommunityFacadeTest.dll
 C:\Users\wyh\Desktop\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\obj\Debug\HiCommunityFacadeTest.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityFacadeTest.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityFacadeTest.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityFacade.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityDBAccessor.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityDataDefine.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\Dapper.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityFacade.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityDBAccessor.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\HiCommunityDataDefine.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\Dapper.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\bin\Debug\Dapper.xml
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\obj\Debug\HiCommunityFacadeTest.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\obj\Debug\HiCommunityFacadeTest.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\HiCommunityFacadeTest\obj\Debug\HiCommunityFacadeTest.pdb

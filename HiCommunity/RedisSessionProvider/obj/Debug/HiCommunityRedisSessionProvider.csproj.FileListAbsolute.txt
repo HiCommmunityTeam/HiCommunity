@@ -1,0 +1,6 @@
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\RedisSessionProvider\bin\Debug\RedisSessionProvider.dll.config
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\RedisSessionProvider\bin\Debug\RedisSessionProvider.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\RedisSessionProvider\bin\Debug\RedisSessionProvider.pdb
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\RedisSessionProvider\obj\Debug\HiCommunityRedisSessionProvider.csprojResolveAssemblyReference.cache
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\RedisSessionProvider\obj\Debug\RedisSessionProvider.dll
+C:\Users\wyh\Desktop\GItHub\HiCommmunityTeam\HiCommunity\RedisSessionProvider\obj\Debug\RedisSessionProvider.pdb
